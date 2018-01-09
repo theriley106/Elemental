@@ -1,0 +1,1271 @@
+{
+  "languageModel": {
+    "types": [
+      {
+        "name": "periodicTable",
+        "values": [
+          {
+            "id": null,
+            "name": {
+              "value": "Hydrogen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Helium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lithium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Beryllium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Boron",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Carbon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nitrogen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oxygen",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fluorine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Neon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sodium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Magnesium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Aluminium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silicon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Phosphorus",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Sulfur",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chlorine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Argon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Potassium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Calcium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Scandium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Titanium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Vanadium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Chromium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Manganese",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Iron",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cobalt",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nickel",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Copper",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zinc",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gallium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Germanium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Arsenic",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Selenium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bromine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Krypton",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rubidium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Strontium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Yttrium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Zirconium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Niobium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Molybdenum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Technetium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ruthenium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rhodium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Palladium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Silver",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cadmium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Indium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tin",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Antimony",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tellurium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Iodine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Xenon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cesium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Barium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lanthanum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Cerium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Praseodymium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Neodymium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Promethium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Samarium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Europium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gadolinium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Terbium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dysprosium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Holmium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Erbium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Thulium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Ytterbium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lutetium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hafnium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tantalum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tungsten",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rhenium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Osmium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Iridium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Platinum",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Gold",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mercury",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Thallium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lead",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bismuth",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Polonium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Astatine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Radon",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Francium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Radium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Actinium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Thorium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Protactinium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Uranium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Neptunium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Plutonium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Americium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Curium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Berkelium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Californium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Einsteinium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Fermium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Mendelevium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nobelium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Lawrencium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Rutherfordium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Dubnium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Seaborgium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Bohrium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Hassium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Meitnerium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Darmstadtium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Roentgenium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Copernicium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Nihonium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Flerovium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Moscovium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Livermorium",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Tennessine",
+              "synonyms": []
+            }
+          },
+          {
+            "id": null,
+            "name": {
+              "value": "Oganesson",
+              "synonyms": []
+            }
+          }
+        ]
+      }
+    ],
+    "intents": [
+    {
+        "name": "AnswerOnlyIntent",
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+          ]
+      },
+      {
+        "name": "aboutDev",
+        "samples": [
+          "tell me about the developer",
+          "tell me who made this",
+          "who made this app",
+          "who made this skill"
+        ],
+        "slots": []
+      },
+      
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "getAppearance",
+        "samples": [
+          "what is the appearance of {ListOfElements}",
+          "{ListOfElements} appearance",
+          "tell me the appearance of {ListOfElements}",
+          "what does {ListOfElements} look like",
+          "is this {ListOfElements}"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getAtomicDensity",
+        "samples": [
+          "Atomic Density of {ListOfElements}",
+          "Density of {ListOfElements}",
+          "what is the atomic density of {ListOfElements}",
+          "what is the density of {ListOfElements}",
+          "{ListOfElements} atomic elements"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getAtomicMass",
+        "samples": [
+          "what is the atomic mass of {ListOfElements}",
+          "atomic mass of {ListOfElements}",
+          "what is {ListOfElements} atomic mass",
+          "what is {ListOfElements} mass"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getCategory",
+        "samples": [
+          "what is the category of {ListOfElements}",
+          "what is {ListOfElements} category",
+          "{ListOfElements} category",
+          "how would you categorize {ListOfElements}",
+          "category of {ListOfElements}"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getFinder",
+        "samples": [
+          "who discovered {ListOfElements}",
+          "who found {ListOfElements}",
+          "who is credited with {ListOfElements}",
+          "who is credited with finding {ListOfElements}",
+          "who founded {ListOfElements}"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getPhase",
+        "samples": [
+          "what is the phase of {ListOfElements}",
+          "phase of {ListOfElements}",
+          "is {ListOfElements} a liquid",
+          "is {ListOfElements} a gas",
+          "is {ListOfElements} a solid",
+          "what form is {ListOfElements} in"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getSymbol",
+        "samples": [
+          "what is the symbol for {ListOfElements}",
+          "what is {ListOfElements} symbol",
+          "what is abbreviation of {ListOfElements}",
+          "what is {ListOfElements} abbreviation",
+          "what is the chemical symbol of {ListOfElements}"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "getTemp",
+        "samples": [
+          "{ListOfElements} boiling temp",
+          "{ListOfElements} temperature",
+          "what is the temperature of {ListOfElements}",
+          "what is the boiling point of {ListOfElements}",
+          "what is boil for {ListOfElements}",
+          "how many degrees to boil {ListOfElements}"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable"
+          }
+        ]
+      },
+      {
+        "name": "quizMe",
+        "samples": [
+          "to quiz me",
+          "qui",
+          "for a qui",
+          "to ask me",
+          "ask me about element",
+          "ask me the names",
+          "ask me element name",
+          "to test me",
+          "to play a game",
+          "to play"
+        ],
+        "slots": []
+      },
+      
+           {
+        "name": "tellMeAboutElements",
+        "samples": [
+          "tell me about {ListOfElements}",
+          "what is {ListOfElements}",
+          "what {ListOfElements}"
+        ],
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "samples": [
+              "{ListOfElements}",
+              "the element I want is {ListOfElements}"
+            ]
+          }
+        ]
+      }
+    ],
+    "invocationName": "elemental"
+  },
+  "prompts": [
+    {
+      "id": "Elicit.Intent-getAppearance.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The appearance of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getAtomicDensity.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The density of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getAtomicMass.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The mass of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getCategory.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The category of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getFinder.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The founder of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getPhase.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The phase of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getSymbol.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The symbol of which element?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-getTemp.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "The boiling point of which temperature?"
+        }
+      ]
+    },
+    {
+      "id": "Elicit.Intent-tellMeAboutElements.IntentSlot-ListOfElements",
+      "variations": [
+        {
+          "type": "PlainText",
+          "value": "What element"
+        },
+        {
+          "type": "PlainText",
+          "value": "which element"
+        }
+      ]
+    }
+  ],
+  "dialog": {
+    "intents": [
+      {
+        "name": "getAppearance",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getAppearance.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getAtomicDensity",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getAtomicDensity.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getAtomicMass",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getAtomicMass.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getCategory",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getCategory.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getFinder",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getFinder.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getPhase",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getPhase.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getSymbol",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getSymbol.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "getTemp",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-getTemp.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      },
+      {
+        "name": "tellMeAboutElements",
+        "confirmationRequired": false,
+        "prompts": {},
+        "slots": [
+          {
+            "name": "ListOfElements",
+            "type": "periodicTable",
+            "elicitationRequired": true,
+            "confirmationRequired": false,
+            "prompts": {
+              "elicitation": "Elicit.Intent-tellMeAboutElements.IntentSlot-ListOfElements"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

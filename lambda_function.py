@@ -7,7 +7,7 @@ ELEMENTLIST = json.load(open('elements.json'))["elements"]
 
 SKILLNAME = "Elemental"
 INITIALSPEECH = "Thanks for checking out Elemental!  You can ask me for information on all 118 elements on the Periodic Table"
-REPEATSPEECH = "Start by asking, start a quiz"
+REPEATSPEECH = "Start by asking, tell me about Helium!"
 
 def lambda_handler(event, context):
 	appID = event['session']['application']['applicationId']
@@ -57,7 +57,7 @@ def genAtomicMass(element):
 	return response
 
 def genSummary(element):
-	return getAllInfo(element)["summary"]
+	return str(getAllInfo(element)["summary"]).replace(getAllInfo(element)["symbol"], ' '.join(list(str(getAllInfo(element)["symbol"]).upper())))
 
 def genTemp(element):
 	return "the boiling point of {} is {} kelvins".format(element, getAllInfo(element)["boil"])
@@ -124,11 +124,6 @@ def on_intent(intent_request, session):
 		element = intent['slots']['ListOfElements']['value']
 		return alexaHelper.returnSpeech(genFounder(element))
 
-	elif intent_name == 'answerIntent':
-		try:
-			element = intent['slots']['ListOfElements']['value']
-		except:
-			return alexaHelper.returnSpeech("The answer was Helium")
 	elif intent_name == 'aboutDev':
 		return alexaHelper.devInfo()
 	elif intent_name == "AMAZON.HelpIntent":
