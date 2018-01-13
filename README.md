@@ -1,5 +1,5 @@
 # Fun Chemistry
-Open-Sourced Alexa Skill to help children (and adults) learn about Chemistry!
+## Open-Sourced Alexa Skill to help children (and adults) learn about Chemistry!
 
 ## Submission for [Amazon's Alexa Skill Challenge: Kids](https://alexakidskills.devpost.com/)
 
@@ -9,7 +9,9 @@ Open-Sourced Alexa Skill to help children (and adults) learn about Chemistry!
 ## Example Utterances
 
 "Alexa, Launch Fun Chemistry"
+
 “Alexa, ask Fun Chemistry to tell me about Helium”
+
 “Alexa, ask Fun Chemistry who discovered Bromine”
 
 
